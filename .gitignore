@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+**/.idea
+**/.idea/workspace.xml
+**/.vscode
+node_modules
+**/dist
+.DS_Store
